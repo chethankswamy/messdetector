@@ -1,0 +1,7 @@
+
+/Applications/MAMP/htdocs/messdetector/uploads/Input.php:12	The class Input_Core has 14 methods. Consider refactoring Input_Core to keep number of methods under 10.
+/Applications/MAMP/htdocs/messdetector/uploads/Input.php:12	The class Input_Core has an overall complexity of 61 which is very high. The configured complexity threshold is 50.
+/Applications/MAMP/htdocs/messdetector/uploads/Input.php:49	The method __construct() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/Input.php:49	The method __construct() has an NPath complexity of 2161. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/Input.php:49	The method __construct() has 109 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/Input.php:289	The method xss_clean() has 114 lines of code. Current threshold is set to 100. Avoid really long methods.

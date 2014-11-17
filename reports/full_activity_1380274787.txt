@@ -1,0 +1,499 @@
+
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:10	The class Activity_Controller has 10565 lines of code. Current threshold is 1000. Avoid really long classes.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:10	The class Activity_Controller has 64 public methods and attributes. Consider to reduce the number of public items under 45.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:10	The class Activity_Controller has 59 methods. Consider refactoring Activity_Controller to keep number of methods under 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:10	The class Activity_Controller has an overall complexity of 2122 which is very high. The configured complexity threshold is 50.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:45	Avoid unused parameters such as '$tab_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:45	Avoid unused parameters such as '$return_path'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:57	The method payment_details() has a Cyclomatic Complexity of 133. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:57	The method payment_details() has an NPath complexity of 739113338396722573280302424583552000. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:57	The method payment_details() has 545 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:64	Avoid unused local variables such as '$merchant_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:65	Avoid excessively long variable names like $merchant_custom_label. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:75	Avoid unused local variables such as '$my_templates'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:156	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:157	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:181	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:191	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:200	Avoid excessively long variable names like $all_stream_total_amount. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:606	The method payment_details_ajax() has a Cyclomatic Complexity of 28. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:606	The method payment_details_ajax() has an NPath complexity of 829468800. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:606	The method payment_details_ajax() has 175 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:616	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:690	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:691	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:697	Avoid unused local variables such as '$selected_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:698	Avoid unused local variables such as '$default_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:699	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:701	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:707	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:711	Avoid excessively long variable names like $all_stream_total_amount. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:712	Avoid unused local variables such as '$table_content'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:726	Avoid unused local variables such as '$trans_status'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:785	The method by_stream() has a Cyclomatic Complexity of 37. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:785	The method by_stream() has an NPath complexity of 269675762400. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:785	The method by_stream() has 230 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:794	Avoid unused local variables such as '$merchant_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:809	Avoid unused local variables such as '$my_templates'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:852	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:853	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:866	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:876	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:944	Avoid unused local variables such as '$i'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:944	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:948	Avoid unused local variables such as '$yes_no_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1019	The method by_stream_ajax() has a Cyclomatic Complexity of 21. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1019	The method by_stream_ajax() has an NPath complexity of 45365400. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1019	The method by_stream_ajax() has 124 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1023	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1062	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1063	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1068	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1069	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1076	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1089	Avoid unused local variables such as '$pay_res'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1146	The method by_customers() has a Cyclomatic Complexity of 75. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1146	The method by_customers() has an NPath complexity of 66795331434951652319966400. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1146	The method by_customers() has 378 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1153	Avoid excessively long variable names like $merchant_custom_label. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1155	Avoid unused local variables such as '$merchant_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1168	Avoid unused local variables such as '$my_templates'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1254	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1273	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1280	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1415	Avoid unused local variables such as '$customer_ids'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1423	Avoid excessively long variable names like $formatted_customer_name. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1529	The method by_customers_ajax() has a Cyclomatic Complexity of 31. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1529	The method by_customers_ajax() has an NPath complexity of 10125000007200. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1529	The method by_customers_ajax() has 208 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1535	Avoid unused local variables such as '$limit'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1611	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1617	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1618	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1625	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1633	Avoid unused local variables such as '$pay_res'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1639	Avoid unused local variables such as '$customer_ids'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1646	Avoid excessively long variable names like $formatted_customer_name. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1741	The method by_customers_export() has a Cyclomatic Complexity of 122. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1741	The method by_customers_export() has an NPath complexity of 82622524102020336569120374059599983200. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1741	The method by_customers_export() has 488 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1868	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1869	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1876	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:1889	Avoid unused local variables such as '$header_index'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2027	Avoid excessively long variable names like $formatted_customer_name. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2234	The method by_item() has a Cyclomatic Complexity of 19. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2234	The method by_item() has an NPath complexity of 367200. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2234	The method by_item() has 134 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2242	Avoid unused local variables such as '$merchant_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2253	Avoid unused local variables such as '$my_templates'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2289	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2303	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2313	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2369	The method by_item_ajax() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2369	The method by_item_ajax() has an NPath complexity of 2700. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2374	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2396	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2401	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2403	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2405	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2411	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2454	The method by_item_export() has a Cyclomatic Complexity of 21. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2454	The method by_item_export() has an NPath complexity of 397800. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2485	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2486	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2493	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2501	Avoid unused local variables such as '$header_index'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2556	The method projections() has a Cyclomatic Complexity of 95. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2556	The method projections() has an NPath complexity of 692413848856266969600. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2556	The method projections() has 575 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2556	Avoid unused parameters such as '$search_field'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2564	Avoid unused local variables such as '$merchant_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2574	Avoid unused local variables such as '$my_templates'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2599	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2617	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2684	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2685	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2714	Avoid excessively long variable names like $no_of_payments_in_this_filter. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2770	Avoid unused local variables such as '$todaysdate'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2776	Avoid unused local variables such as '$all_item_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2787	Avoid excessively long variable names like $remaining_payments_offset. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2804	Avoid excessively long variable names like $this_month_subsciber_due_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2817	Avoid excessively long variable names like $first_day_of_this_mnth. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2822	Avoid excessively long variable names like $subsciber_due_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2831	Avoid excessively long variable names like $subscriber_start_date. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2832	Avoid excessively long variable names like $subscriber_start_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2978	Avoid unused local variables such as '$filter_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2997	Avoid excessively long variable names like $subsciber_due_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2998	Avoid unused local variables such as '$ss_values'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2998	Avoid excessively long variable names like $subscriber_start_date. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:2999	Avoid excessively long variable names like $subscriber_start_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3004	Avoid unused local variables such as '$current_start_date'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3006	Avoid unused local variables such as '$this_month_subsciber_due_date_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3006	Avoid excessively long variable names like $remaining_payments_offset. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3059	Avoid excessively long variable names like $sales_tax_percentage_1. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3060	Avoid excessively long variable names like $sales_tax_percentage_2. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3063	Avoid unused local variables such as '$sales_amount_1'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3064	Avoid unused local variables such as '$sales_amount_2'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3136	The method projections_ajax() has a Cyclomatic Complexity of 87. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3136	The method projections_ajax() has an NPath complexity of 197105258923156800. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3136	The method projections_ajax() has 488 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3147	Avoid excessively long variable names like $no_of_payments_in_this_filter. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3159	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3192	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3194	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3200	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3208	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3209	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3210	Avoid unused local variables such as '$pagination_link'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3282	Avoid unused local variables such as '$unlimited_no_rem_payments'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3282	Avoid excessively long variable names like $unlimited_no_rem_payments. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3283	Avoid unused local variables such as '$freq_of_payment'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3286	Avoid unused local variables such as '$todaysdate'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3297	Avoid excessively long variable names like $remaining_payments_offset. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3314	Avoid excessively long variable names like $this_month_subsciber_due_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3327	Avoid excessively long variable names like $first_day_of_this_mnth. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3332	Avoid excessively long variable names like $subsciber_due_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3341	Avoid excessively long variable names like $subscriber_start_date. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3342	Avoid excessively long variable names like $subscriber_start_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3569	Avoid excessively long variable names like $sales_tax_percentage_1. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3570	Avoid excessively long variable names like $sales_tax_percentage_2. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3573	Avoid unused local variables such as '$sales_amount_1'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3574	Avoid unused local variables such as '$sales_amount_2'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3626	Avoid unused parameters such as '$var'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3634	The method credit_cards() has a Cyclomatic Complexity of 41. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3634	The method credit_cards() has an NPath complexity of 1449551484000. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3634	The method credit_cards() has 216 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3641	Avoid excessively long variable names like $merchant_custom_label. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3643	Avoid unused local variables such as '$merchant_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3651	Avoid unused local variables such as '$my_templates'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3706	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3724	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3734	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3767	Avoid unused local variables such as '$column_heading'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3854	The method credit_card_ajax() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3854	The method credit_card_ajax() has an NPath complexity of 2250. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3854	The method credit_card_ajax() has 125 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3861	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3903	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3904	Avoid excessively long variable names like $customer_card_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3906	Avoid unused local variables such as '$filter_counter'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3909	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3910	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3914	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3921	Avoid unused local variables such as '$filtered_cc_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3983	The method credit_cards_export() has a Cyclomatic Complexity of 63. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3983	The method credit_cards_export() has an NPath complexity of 633318924091410000. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:3983	The method credit_cards_export() has 260 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4057	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4058	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4065	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4074	Avoid unused local variables such as '$header_index'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4155	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4247	The method email() has a Cyclomatic Complexity of 40. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4247	The method email() has an NPath complexity of 724775752800. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4247	The method email() has 205 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4254	Avoid excessively long variable names like $merchant_custom_label. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4320	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4334	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4341	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4356	Avoid unused local variables such as '$column_heading'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4455	The method email_ajax() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4455	The method email_ajax() has an NPath complexity of 1350. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4462	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4501	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4504	Avoid unused local variables such as '$filter_counter'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4509	Avoid unused local variables such as '$filtered_email_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4509	Avoid excessively long variable names like $filtered_email_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4510	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4512	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4517	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4539	Avoid excessively long variable names like $send_payment_notification. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4556	The method email_export() has a Cyclomatic Complexity of 61. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4556	The method email_export() has an NPath complexity of 45598948391387160. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4556	The method email_export() has 206 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4567	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4568	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4575	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4583	Avoid unused local variables such as '$header_index'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4666	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4682	Avoid excessively long variable names like $send_payment_notification. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4766	The method payment_detail_export() has a Cyclomatic Complexity of 123. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4766	The method payment_detail_export() has an NPath complexity of 338421858239829106424618695953000. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4766	The method payment_detail_export() has 533 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4893	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4900	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4901	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:4908	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5050	Avoid excessively long variable names like $all_stream_total_amount. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5051	Avoid unused local variables such as '$table_content'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5052	Avoid unused local variables such as '$processed_counter'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5053	Avoid unused local variables such as '$failed_counter'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5054	Avoid unused local variables such as '$pending_counter'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5055	Avoid unused local variables such as '$ps_data'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5056	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5057	Avoid unused local variables such as '$total_count'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5125	Avoid unused local variables such as '$i'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5125	Avoid unused local variables such as '$formated_amount'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5125	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5304	The method by_stream_export() has a Cyclomatic Complexity of 59. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5304	The method by_stream_export() has an NPath complexity of 39452331387308400. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5304	The method by_stream_export() has 264 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5380	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5387	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5388	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5395	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5403	Avoid unused local variables such as '$header_index'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5431	Avoid unused local variables such as '$header'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5459	Avoid unused local variables such as '$pay_res'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5460	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5574	Avoid unused private methods such as 'cleanData'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5709	The method pending_payments() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5805	The method display_email_details() has a Cyclomatic Complexity of 26. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5805	The method display_email_details() has an NPath complexity of 3690. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5805	The method display_email_details() has 158 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5967	The method display_email_details_ajax() has a Cyclomatic Complexity of 20. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5967	The method display_email_details_ajax() has an NPath complexity of 454. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5967	The method display_email_details_ajax() has 119 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:5999	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6098	The method display_payment_details() has an NPath complexity of 308. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6166	Avoid excessively long variable names like $unsucessfull_payments. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6181	Avoid unused local variables such as '$merchant_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6227	The method registration_report() has a Cyclomatic Complexity of 24. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6227	The method registration_report() has an NPath complexity of 8326800. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6227	The method registration_report() has 134 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6237	Avoid unused local variables such as '$merchant_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6244	Avoid unused local variables such as '$my_templates'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6252	Avoid unused local variables such as '$display_type'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6268	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6291	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6363	The method registration_report_ajax() has a Cyclomatic Complexity of 20. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6363	The method registration_report_ajax() has an NPath complexity of 78300. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6367	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6381	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6383	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6385	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6403	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6420	Avoid unused local variables such as '$stream_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6421	Avoid unused local variables such as '$pay_res'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6423	Avoid unused local variables such as '$total_amount'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6449	Avoid unused local variables such as '$ps_data'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6456	The method tt_export() has a Cyclomatic Complexity of 45. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6456	The method tt_export() has an NPath complexity of 53291722500. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6456	The method tt_export() has 160 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6500	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6502	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6504	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6507	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6534	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6562	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6646	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6661	The method projections_export() has a Cyclomatic Complexity of 108. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6661	The method projections_export() has an NPath complexity of 291890173840572075602400. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6661	The method projections_export() has 572 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6667	Avoid excessively long variable names like $no_of_payments_in_this_filter. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6674	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6676	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6678	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6682	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6755	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6763	Avoid excessively long variable names like $first_day_of_current_month. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6768	Avoid excessively long variable names like $first_day_of_next_month. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6836	Avoid unused local variables such as '$todaysdate'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6840	Avoid unused local variables such as '$unlimited_no_rem_payments'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6840	Avoid excessively long variable names like $unlimited_no_rem_payments. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6841	Avoid unused local variables such as '$freq_of_payment'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6842	Avoid unused local variables such as '$grand_total'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6844	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6845	Avoid variables with short names like $j. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6857	Avoid excessively long variable names like $remaining_payments_offset. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6874	Avoid excessively long variable names like $this_month_subsciber_due_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6887	Avoid excessively long variable names like $first_day_of_this_mnth. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6892	Avoid excessively long variable names like $subsciber_due_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6901	Avoid excessively long variable names like $subscriber_start_date. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:6902	Avoid excessively long variable names like $subscriber_start_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7129	Avoid excessively long variable names like $sales_tax_percentage_1. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7130	Avoid excessively long variable names like $sales_tax_percentage_2. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7133	Avoid unused local variables such as '$sales_amount_1'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7134	Avoid unused local variables such as '$sales_amount_2'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7154	Avoid unused local variables such as '$field_value'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7155	Avoid unused local variables such as '$i'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7155	Avoid unused local variables such as '$ps_deatils'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7155	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7155	Avoid variables with short names like $j. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7235	The method payment_details_search() has a Cyclomatic Complexity of 69. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7235	The method payment_details_search() has an NPath complexity of 769508935715310796800. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7235	The method payment_details_search() has 279 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7244	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7247	Avoid unused local variables such as '$mysql_date_format'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7437	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7438	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7441	Avoid unused local variables such as '$selected_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7442	Avoid unused local variables such as '$default_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7443	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7445	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7451	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7455	Avoid excessively long variable names like $all_stream_total_amount. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7456	Avoid unused local variables such as '$table_content'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7457	Avoid unused local variables such as '$processed_counter'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7515	The method by_stream_search() has a Cyclomatic Complexity of 40. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7515	The method by_stream_search() has an NPath complexity of 17838401126400. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7515	The method by_stream_search() has 175 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7524	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7617	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7618	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7623	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7624	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7631	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7641	Avoid unused local variables such as '$pay_res'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7691	The method by_customers_search() has a Cyclomatic Complexity of 69. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7691	The method by_customers_search() has an NPath complexity of 2087354108824681394995200. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7691	The method by_customers_search() has 312 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7701	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7888	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7894	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7895	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7902	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7911	Avoid unused local variables such as '$customer_ids'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:7914	Avoid excessively long variable names like $formatted_customer_name. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8005	The method by_item_search() has a Cyclomatic Complexity of 15. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8005	The method by_item_search() has an NPath complexity of 43200. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8013	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8014	Avoid unused local variables such as '$ps_data'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8053	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8055	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8057	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8063	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8101	The method projections_search() has a Cyclomatic Complexity of 107. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8101	The method projections_search() has an NPath complexity of 17032796876720701440000. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8101	The method projections_search() has 538 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8114	Avoid excessively long variable names like $no_of_payments_in_this_filter. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8170	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8204	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8206	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8210	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8219	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8220	Avoid excessively long variable names like $payment_stream_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8221	Avoid unused local variables such as '$pagination_link'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8227	Avoid excessively long variable names like $first_day_of_current_month. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8231	Avoid excessively long variable names like $first_day_of_next_month. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8288	Avoid unused local variables such as '$filterstartdate'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8291	Avoid unused local variables such as '$filter_day_difference'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8291	Avoid excessively long variable names like $filter_day_difference. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8292	Avoid unused local variables such as '$unlimited_no_rem_payments'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8292	Avoid excessively long variable names like $unlimited_no_rem_payments. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8293	Avoid unused local variables such as '$freq_of_payment'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8307	Avoid excessively long variable names like $remaining_payments_offset. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8324	Avoid excessively long variable names like $this_month_subsciber_due_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8337	Avoid excessively long variable names like $first_day_of_this_mnth. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8342	Avoid excessively long variable names like $subsciber_due_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8351	Avoid excessively long variable names like $subscriber_start_date. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8352	Avoid excessively long variable names like $subscriber_start_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8579	Avoid excessively long variable names like $sales_tax_percentage_1. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8580	Avoid excessively long variable names like $sales_tax_percentage_2. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8583	Avoid unused local variables such as '$sales_amount_1'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8584	Avoid unused local variables such as '$sales_amount_2'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8641	The method by_credit_card_search() has a Cyclomatic Complexity of 36. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8641	The method by_credit_card_search() has an NPath complexity of 56623104000. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8641	The method by_credit_card_search() has 162 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8650	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8651	Avoid unused local variables such as '$ps_data'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8764	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8765	Avoid excessively long variable names like $customer_card_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8767	Avoid unused local variables such as '$filter_counter'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8770	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8771	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8775	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8804	The method by_email_search() has a Cyclomatic Complexity of 35. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8804	The method by_email_search() has an NPath complexity of 45298483200. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8804	The method by_email_search() has 173 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8813	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8814	Avoid unused local variables such as '$ps_data'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8927	Avoid excessively long variable names like $payment_stream_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8930	Avoid unused local variables such as '$filter_counter'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8934	Avoid unused local variables such as '$filtered_email_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8934	Avoid excessively long variable names like $filtered_email_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8935	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8937	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8942	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8964	Avoid excessively long variable names like $send_payment_notification. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8978	The method tt_report_search() has a Cyclomatic Complexity of 27. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8978	The method tt_report_search() has an NPath complexity of 13363200. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8978	The method tt_report_search() has 117 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:8982	Avoid unused local variables such as '$limit_val'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9021	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9023	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9025	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9043	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9061	Avoid unused local variables such as '$stream_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9062	Avoid unused local variables such as '$pay_res'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9064	Avoid unused local variables such as '$total_amount'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9090	Avoid unused local variables such as '$ps_data'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9144	Avoid unused local variables such as '$email_details_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9152	The method export_emails() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9152	The method export_emails() has an NPath complexity of 320. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9178	Avoid unused local variables such as '$header'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9237	The method this_month_processed_trans_count() has a Cyclomatic Complexity of 13. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9237	Avoid excessively long variable names like $subsciber_due_date_val. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9252	Avoid unused local variables such as '$no_of_payments_in_this_filter'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9252	Avoid excessively long variable names like $no_of_payments_in_this_filter. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9309	The method by_sales_person() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9309	The method by_sales_person() has an NPath complexity of 48600. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9309	The method by_sales_person() has 105 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9315	Avoid unused local variables such as '$merchant_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9351	Avoid excessively long variable names like $sales_person_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9365	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9375	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9416	The method by_sales_person_ajax() has an NPath complexity of 450. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9444	Avoid excessively long variable names like $sales_person_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9446	Avoid unused local variables such as '$pagination_link'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9449	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9451	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9453	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9459	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9471	The method by_sales_person_search() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9471	The method by_sales_person_search() has an NPath complexity of 2250. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9511	Avoid excessively long variable names like $sales_person_details_arr. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9513	Avoid unused local variables such as '$pagination_link'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9516	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9518	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9520	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9526	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9538	The method by_sales_person_export() has a Cyclomatic Complexity of 28. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9538	The method by_sales_person_export() has an NPath complexity of 1474200. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9538	The method by_sales_person_export() has 118 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9603	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9604	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9611	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9619	Avoid unused local variables such as '$header_index'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9659	The method by_group() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9659	The method by_group() has an NPath complexity of 48600. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9659	The method by_group() has 105 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9665	Avoid unused local variables such as '$merchant_details'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9715	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9725	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9766	The method by_group_ajax() has an NPath complexity of 450. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9796	Avoid unused local variables such as '$pagination_link'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9799	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9801	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9803	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9809	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9821	The method by_group_search() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9821	The method by_group_search() has an NPath complexity of 1800. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9863	Avoid unused local variables such as '$pagination_link'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9866	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9868	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9870	Avoid unused local variables such as '$all_arr'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9876	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9888	The method by_group_export() has a Cyclomatic Complexity of 26. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9888	The method by_group_export() has an NPath complexity of 729000. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9888	The method by_group_export() has 117 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9952	Avoid excessively long variable names like $defaults_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9953	Avoid unused local variables such as '$report_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9960	Avoid excessively long variable names like $selected_fields_value. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:9968	Avoid unused local variables such as '$header_index'.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:10049	The method get_search_db_column() has a Cyclomatic Complexity of 155. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:10049	The method get_search_db_column() has an NPath complexity of 2199057399856. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:10049	The method get_search_db_column() has 464 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:10515	The method _calculate_tax_amounts() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/activity.php:10565	Avoid unused local variables such as '$amt_calculator'.

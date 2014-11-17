@@ -1,0 +1,55 @@
+
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:5	The class Checkout_Controller has 1184 lines of code. Current threshold is 1000. Avoid really long classes.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:5	The class Checkout_Controller has 21 methods. Consider refactoring Checkout_Controller to keep number of methods under 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:5	The class Checkout_Controller has an overall complexity of 214 which is very high. The configured complexity threshold is 50.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:69	The method _decryptHashcode() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:69	The method _decryptHashcode() has an NPath complexity of 6482. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:99	Avoid excessively long variable names like $merchantCheckoutDetails. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:155	The method process() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:198	The method proceed() has a Cyclomatic Complexity of 13. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:198	The method proceed() has an NPath complexity of 601. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:209	Avoid unused local variables such as '$are_steps_generated'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:240	Avoid unused local variables such as '$checkout_headers'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:314	Avoid unused private methods such as '_getPreviousStep'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:328	Avoid unused local variables such as '$userView'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:329	Avoid unused local variables such as '$step'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:377	The method _validateStream() has an NPath complexity of 628. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:380	Avoid unused local variables such as '$expectedParams'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:432	Avoid unused local variables such as '$userDetails'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:458	The method sign_up_user() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:502	The method _validateUserLogin() has a Cyclomatic Complexity of 40. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:502	The method _validateUserLogin() has an NPath complexity of 2212524414062503. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:502	The method _validateUserLogin() has 123 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:539	Avoid excessively long variable names like $merchantAchGatewayDetails. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:570	Avoid unused local variables such as '$customerTokenId'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:574	Avoid unused local variables such as '$updateCustomerToken'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:610	Avoid unused local variables such as '$paymentView'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:632	The method _validatePaymentMethod() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:657	Avoid unused local variables such as '$userView'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:687	Avoid unused local variables such as '$userView'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:797	The method _chargeOnetimePay() has a Cyclomatic Complexity of 25. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:797	The method _chargeOnetimePay() has an NPath complexity of 1718. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:797	The method _chargeOnetimePay() has 177 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:826	Avoid excessively long variable names like $merchantAchGatewayDetails. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:828	Avoid unused local variables such as '$merchantNameNew'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:832	Avoid excessively long variable names like $arrMerchantTransaction. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:833	Avoid excessively long variable names like $merchantRemainingNoOfTransactions. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:835	Avoid excessively long variable names like $notifyWhenPaymentFails. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:858	Avoid unused local variables such as '$consumer_order_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:882	Avoid excessively long variable names like $gatewayResponseDescription. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:884	Avoid excessively long variable names like $gatewayTransactionNum. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:885	Avoid excessively long variable names like $gatewayAuthorizationCode. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:905	Avoid excessively long variable names like $transactionLogResponse. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:915	Avoid excessively long variable names like $updatedRemainingNoOfTransactions. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:927	Avoid unused local variables such as '$charge_reason'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:929	Avoid unused local variables such as '$noteId'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:981	The method _chargeRecurring() has a Cyclomatic Complexity of 29. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:981	The method _chargeRecurring() has an NPath complexity of 3554. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:981	The method _chargeRecurring() has 199 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:1011	Avoid unused local variables such as '$merchantId'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:1012	Avoid excessively long variable names like $selectedCustomersDiscounts. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:1013	Avoid excessively long variable names like $selectedCustomersDiscounttype. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:1014	Avoid excessively long variable names like $selectedCustomersProrateAmount. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:1016	Avoid excessively long variable names like $selectedCustomersProrateDate. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:1092	Avoid excessively long variable names like $selectedCustomersProrateAmountValue. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout.php:1099	Avoid unused local variables such as '$ssId'.

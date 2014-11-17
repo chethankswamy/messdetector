@@ -1,0 +1,51 @@
+
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:3	The class Ach_Controller has 14 methods. Consider refactoring Ach_Controller to keep number of methods under 10.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:3	The class Ach_Controller has an overall complexity of 74 which is very high. The configured complexity threshold is 50.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:124	Avoid excessively long variable names like $gateway_response_type. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:126	Avoid excessively long variable names like $gateway_response_description. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:128	Avoid excessively long variable names like $gateway_response_code. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:130	Avoid excessively long variable names like $gateway_transaction_num. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:132	Avoid unused local variables such as '$gateway_authorization_code'.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:132	Avoid excessively long variable names like $gateway_authorization_code. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:161	Avoid excessively long variable names like $gateway_response_type. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:163	Avoid excessively long variable names like $gateway_response_description. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:165	Avoid excessively long variable names like $gateway_response_code. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:167	Avoid excessively long variable names like $gateway_transaction_num. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:169	Avoid excessively long variable names like $gateway_authorization_code. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:199	Avoid excessively long variable names like $gateway_response_type. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:201	Avoid excessively long variable names like $gateway_response_description. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:203	Avoid excessively long variable names like $gateway_response_code. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:205	Avoid excessively long variable names like $gateway_transaction_num. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:207	Avoid excessively long variable names like $gateway_authorization_code. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:229	Avoid excessively long variable names like $merchant_ach_gateway_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:250	The method ach_onetime() has a Cyclomatic Complexity of 35. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:250	The method ach_onetime() has 128 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:253	Avoid excessively long variable names like $merchant_ach_gateway_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:271	Avoid excessively long variable names like $gateway_response_type. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:273	Avoid excessively long variable names like $gateway_response_description. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:275	Avoid excessively long variable names like $gateway_response_code. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:277	Avoid excessively long variable names like $gateway_transaction_num. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:380	The method process_transaction() has a Cyclomatic Complexity of 18. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:380	The method process_transaction() has 126 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:395	Avoid excessively long variable names like $number_of_payments_remaining. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:396	Avoid excessively long variable names like $sales_tax_percentage_1. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:397	Avoid excessively long variable names like $sales_tax_percentage_2. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:412	Avoid excessively long variable names like $merchant_ach_gateway_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:427	Avoid excessively long variable names like $gateway_response_type. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:428	Avoid excessively long variable names like $gateway_response_description. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:429	Avoid excessively long variable names like $gateway_response_code. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:430	Avoid excessively long variable names like $gateway_transaction_num. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:481	Avoid variables with short names like $to. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:490	Avoid unused local variables such as '$merchant'.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:492	Avoid unused local variables such as '$mail_sent'.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:492	Avoid unused local variables such as '$from'.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:549	Avoid excessively long variable names like $merchant_ach_gateway_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:567	Avoid excessively long variable names like $merchant_ach_gateway_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:579	Avoid unused local variables such as '$conf_setting'.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:611	Avoid excessively long variable names like $merchant_ach_gateway_details. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:628	Avoid unused local variables such as '$gateway_response_type'.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:628	Avoid excessively long variable names like $gateway_response_type. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:629	Avoid excessively long variable names like $gateway_response_description. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:630	Avoid excessively long variable names like $gateway_response_code. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:631	Avoid unused local variables such as '$gateway_transaction_num'.
+/Applications/MAMP/htdocs/messdetector/uploads/ach.php:631	Avoid excessively long variable names like $gateway_transaction_num. Keep variable name length under 20.

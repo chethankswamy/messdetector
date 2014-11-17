@@ -1,0 +1,14 @@
+
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:22	The class Controller_Aecapi has 13 methods. Consider refactoring Controller_Aecapi to keep number of methods under 10.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:22	The class Controller_Aecapi has an overall complexity of 61 which is very high. The configured complexity threshold is 50.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:89	Avoid unused local variables such as '$data_model'.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:91	Avoid unused local variables such as '$company_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:92	Avoid unused local variables such as '$user_id'.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:128	Avoid unused private methods such as 'action_verifyAccessToken'.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:171	The method action_sync() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:171	The method action_sync() has 139 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:317	The method action_customer_sync() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:317	The method action_customer_sync() has an NPath complexity of 519. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:454	The method action_setAccessFlag() has an NPath complexity of 375. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:455	Avoid unused local variables such as '$flag'.
+/Applications/MAMP/htdocs/messdetector/uploads/aecapi.php:458	Avoid unused local variables such as '$aec_secret'.

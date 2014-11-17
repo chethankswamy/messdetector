@@ -1,0 +1,17 @@
+
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:8	The class Integration_Model has 27 methods. Consider refactoring Integration_Model to keep number of methods under 10.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:8	The class Integration_Model has an overall complexity of 103 which is very high. The configured complexity threshold is 50.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:100	Avoid excessively long variable names like $specific_customer_query. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:135	Avoid excessively long variable names like $customer_info_columns. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:137	Avoid excessively long variable names like $customer_sync_columns. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:308	Avoid unused local variables such as '$trans_amt'.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:572	Avoid excessively long variable names like $thirdparty_customer_id. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:634	Avoid excessively long variable names like $current_customer_query. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:703	The method store_item_thirdparty_data() has an NPath complexity of 31250. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:703	Avoid unused parameters such as '$op'.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:703	Avoid variables with short names like $op. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:723	The method store_tax_thirdparty_data() has an NPath complexity of 1250. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:723	Avoid unused parameters such as '$op'.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:723	Avoid variables with short names like $op. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:743	Avoid variables with short names like $id. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/integration.php:756	Avoid variables with short names like $id. Configured minimum length is 3.

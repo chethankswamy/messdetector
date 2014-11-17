@@ -1,0 +1,34 @@
+
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:3	The class Checkout_setup_Controller has 1576 lines of code. Current threshold is 1000. Avoid really long classes.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:3	The class Checkout_setup_Controller has 33 methods. Consider refactoring Checkout_setup_Controller to keep number of methods under 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:3	The class Checkout_setup_Controller has an overall complexity of 336 which is very high. The configured complexity threshold is 50.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:38	Avoid variables with short names like $id. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:101	The method edit() has a Cyclomatic Complexity of 24. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:101	The method edit() has an NPath complexity of 14337. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:232	The method save_user_info() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:326	The method save_image() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:326	The method save_image() has an NPath complexity of 772. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:392	The method delete_header_image() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:511	Avoid excessively long variable names like $expected_stream_params. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:666	Avoid excessively long variable names like $expected_payment_params. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:777	The method _save_payment_stream_info() has a Cyclomatic Complexity of 29. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:777	The method _save_payment_stream_info() has an NPath complexity of 6615002. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:851	The method _save_user_information() has a Cyclomatic Complexity of 38. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:851	The method _save_user_information() has an NPath complexity of 110990880002. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:851	The method _save_user_information() has 105 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:963	The method _save_payment_method() has a Cyclomatic Complexity of 15. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:963	The method _save_payment_method() has an NPath complexity of 10202. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1009	The method _save_confirmation() has a Cyclomatic Complexity of 15. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1009	The method _save_confirmation() has an NPath complexity of 10202. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1056	The method _save_acknowledgement() has a Cyclomatic Complexity of 15. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1056	The method _save_acknowledgement() has an NPath complexity of 10202. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1104	The method get_html() has a Cyclomatic Complexity of 15. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1200	Avoid variables with short names like $id. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1244	Avoid unused local variables such as '$view_string'.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1263	The method stream_list_view() has a Cyclomatic Complexity of 21. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1263	The method stream_list_view() has an NPath complexity of 296. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1344	The method user_login_view() has a Cyclomatic Complexity of 21. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1344	The method user_login_view() has an NPath complexity of 416. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1420	The method payment_method_view() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1475	The method confirmation_view() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/checkout_setup.php:1530	The method acknowledge_view() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.

@@ -1,0 +1,37 @@
+
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:11	The class Xero_Controller has 1479 lines of code. Current threshold is 1000. Avoid really long classes.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:11	The class Xero_Controller has 58 methods. Consider refactoring Xero_Controller to keep number of methods under 10.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:11	The class Xero_Controller has an overall complexity of 237 which is very high. The configured complexity threshold is 50.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:139	Avoid unused local variables such as '$XeroOAuth'.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:170	Avoid unused local variables such as '$code'.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:228	Avoid excessively long variable names like $accessTokenSecretHashed. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:258	Avoid variables with short names like $op. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:409	Avoid excessively long variable names like $categorizedAccountOptions. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:419	The method _categorize_accounts_options() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:419	The method _categorize_accounts_options() has an NPath complexity of 289. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:420	Avoid excessively long variable names like $categorizedAccountOptions. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:426	Avoid excessively long variable names like $includePaymentEnabled. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:428	Avoid excessively long variable names like $selectedIncomeAccount. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:429	Avoid excessively long variable names like $selectedDiscountAccount. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:430	Avoid excessively long variable names like $selectedPaymentAccount. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:656	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:692	The method _handle_validation_errors() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:738	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:782	Avoid unused local variables such as '$taxes'.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:920	The method _extract_customer_data() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:920	The method _extract_customer_data() has an NPath complexity of 3850. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:978	The method _add_to_xero_customer_groups() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:978	The method _add_to_xero_customer_groups() has an NPath complexity of 240. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1048	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1061	The method _format_customer_to_export() has a Cyclomatic Complexity of 14. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1061	The method _format_customer_to_export() has an NPath complexity of 508032. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1200	Avoid excessively long variable names like $formattedTransToExport. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1208	Avoid unused local variables such as '$paymentsApplied'.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1219	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1255	Avoid variables with short names like $i. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1267	The method _format_transaction_to_export() has a Cyclomatic Complexity of 22. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1267	The method _format_transaction_to_export() has an NPath complexity of 21600000. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1267	The method _format_transaction_to_export() has 153 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1333	Avoid excessively long variable names like $transactionDescription. Keep variable name length under 20.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1435	Avoid variables with short names like $id. Configured minimum length is 3.
+/Applications/MAMP/htdocs/messdetector/uploads/xero.php:1465	Avoid excessively long variable names like $conflictedCustomerIds. Keep variable name length under 20.

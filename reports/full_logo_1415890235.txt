@@ -1,0 +1,12 @@
+
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:5	The class Logo_Controller has an overall complexity of 80 which is very high. The configured complexity threshold is 50.
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:45	The method save() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:45	The method save() has an NPath complexity of 256. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:45	The method save() has 105 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:60	Avoid unused local variables such as '$width'.
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:60	Avoid unused local variables such as '$height'.
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:151	The method crop() has a Cyclomatic Complexity of 27. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:254	The method smart_resize_image() has a Cyclomatic Complexity of 30. The configured cyclomatic complexity threshold is 10.
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:254	The method smart_resize_image() has an NPath complexity of 5806080. The configured NPath complexity threshold is 200.
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:254	The method smart_resize_image() has 113 lines of code. Current threshold is set to 100. Avoid really long methods.
+/Applications/MAMP/htdocs/messdetector/uploads/logo.php:286	Avoid variables with short names like $x. Configured minimum length is 3.
